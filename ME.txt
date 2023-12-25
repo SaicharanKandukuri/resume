@@ -4,8 +4,7 @@
 3. Vignan E-Techno School - private school ( 6th to 10th ) [ CGPA: 8.2 ]
 
 4. Shivani Collge | High school/Intern - ( 11th - 12th ) [ CGPA: ? ]
-
-5. Parul University - (1st SEM - 6th SEM) [ CGPA: 7.19 ]
+5. Parul University - (1st SEM - 6th SEM) [ CGPA: 7.19 ] { to be graduated on 2024 around April }
 ------------------
 
 --- Projects/TASKS ---
@@ -13,7 +12,12 @@
 Technical things ive done & remebered sorted by time
 By Time:
 
-::1:: Reverse Engineering Andronix. ( experiment )
+INDEX
+-----
+TASKS: 1-18
+PROJECTS: 18-25
+-----
+::1:: Reverse Engineering a project called Andronix. ( experiment )
 ::2:: Re-Implementing proot linux launch scripts ( experiment )
 ::3:: implemeting scripts to recreate Andronix modded os installation ( experiment )
 ::4:: building linux distros with debootstrap in Raspberry PI.
@@ -34,8 +38,21 @@ By Time:
 ::19:: PROJECT: udroid-download - a project to use GitHub Actions to automate build linux tarballs & release process
 ::20:: PROJECT: UDROID - rewrite ubuntu-on-android project
 ::21:: PROJECT: udroid-wiki - a documentation/wiki project for UDROID
-::22:: PROJECT: Gnome in proot - a project to port GNOME to proot 
+::22:: PROJECT: Gnome in proot - a project to port GNOME to proot -> to android
 ::23:: PROJECT: notes-wasm-go - A note tacking app that uses git in client browser to use GITHUB as Storage to store notes [ INTERNSHIP PROJECT ]
-::24:: PROJECT: project-video-to-ppt - converting youtube video to slides with Large Language models
+::24:: PROJECT: project-video-to-ppt - converting youtube video to slides with Large Language models [ INTERNSHIP PROJECT ]
+::25:: PROJECT: requeust-proxy - a project that uses svelte request handlers to stub HTTP verbs and acts as a proxy deployed on serverless platforms
 
 -- probably much more --
+
+--- Code experience ---
+
+Languages: Python, Bash, Javascript, TypeScript, Rust, C, C++, lua | JSON, MarkDown, yml, HTML, CSS
+Libraries and Frameworks: Svelte, NextJS, React, Astro, node, Bun, ThreeJs, google Maps | Torch, HuggingFace Transformers
+Tools: VSCode, Neovim , docker, pnpm & Yarn & Bun, GitHub, GitLab, zsh, vercel
+
+Cloud things: Digital Ocean { cause it's pretty straight forward }
+
+Operating System: Pop OS (kernel v6.6.6), Windows 11 { used only when need to }
+
+
